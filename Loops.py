@@ -6,7 +6,6 @@ Created on Dec 2, 2017
 
 number = int(input("Enter a number: ")); 
 for i in range [number]:
-    def finding_factors (x):
-        return Factor list 
-    print 
-
+    def finding_factors (number):
+        return 
+        
